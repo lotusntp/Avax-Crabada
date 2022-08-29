@@ -1,2 +1,2 @@
 ﻿# Avax-Crabada
-[Crabada](https://crabada.com).
+link website [Crabada](https://crabada.com).
