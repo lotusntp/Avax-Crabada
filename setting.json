@@ -1,0 +1,14 @@
+{
+    "account" : "",
+    "privateKey" : "",
+    "contract" : "0x82a85407BD612f52577909F4A58bfC6873f14DA8",
+    "tokenLine" : "",
+    "provider": "https://api.avax.network/ext/bc/C/rpc",
+    "gasPrice": 88,
+    "gasLimit": 400000,
+    "GasSettlePrice": 50,
+    "lowdefensePoint": 630,
+    "lowGas": 50,
+    "teamFirst": "",
+    "teamSecond": ""
+}
